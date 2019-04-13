@@ -12,5 +12,7 @@ public class Constants {
         public static final String USER_EXISTED_ERROR = "用户已存在!";
         public static final String USER_NOT_EXISTE = "用户不存在!";
         public static final String SAME_NAME_PLAV_ERROR = "同名的推广计划";
+        public static final String SAME_NAME_UNIT_ERROR = "同名的推广单元";
+
     }
 }
